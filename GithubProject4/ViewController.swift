@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         // comment agregado
         //local changes
         // remote changes
+        // nuevos cambios remotos
     }
 
     override func didReceiveMemoryWarning() {
